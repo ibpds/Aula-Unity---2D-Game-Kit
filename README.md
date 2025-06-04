@@ -1,6 +1,12 @@
-# Titulo
-
-## Subtitle
-Projeto para a aula de Unity utilizando 2D GameKit.
-
-https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098
+READ.me —> GitHub
+ 
+Nome dos Integrantes: 
+Carolina, Izabela e Yasmin Yumi
+ 
+Ambiente:
+Caverna
+ 
+Objetivo da fase: O jogador deve coletar todas as chaves que estão espalhadas pelo mapa para concluí-la.
+ 
+Estilo do level:
+O level representa os estilos exploratório e plataforma
